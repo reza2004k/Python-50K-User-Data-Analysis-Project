@@ -1,5 +1,5 @@
 # 📊 Python 50K User Data Analysis & Visualization
-/
+
 This project is a detailed data science exercise focused on cleaning, classifying, and visualizing a large dataset (50,000 records) of user demographic and contact information. It was completed as a final project for the Data Analysis course at Technical and Vocational Training Organization (Fanni Herfeh-i) in Tehran.
 
 ## ✨ Core Features
